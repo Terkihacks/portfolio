@@ -81,15 +81,15 @@ import {
       imageUrl: project1,
       url: "https://github.com/bhartik021/summarizeme",
     },
-    {
-      id: "2",
-      title: "Linktree",
-      text: "A Linktree is a web page which consists stack of social media links and developed using Reactjs and Tailwind CSS with a Modern UI.",
-      date: "March 2024",
-      status: "done",
-      imageUrl: bhartiIcon,
-      url: "https://github.com/bhartik021/linktree",
-    },
+    // {
+    //   id: "2",
+    //   title: "Linktree",
+    //   text: "A Linktree is a web page which consists stack of social media links and developed using Reactjs and Tailwind CSS with a Modern UI.",
+    //   date: "March 2024",
+    //   status: "done",
+    //   imageUrl: bhartiIcon,
+    //   url: "https://github.com/bhartik021/linktree",
+    // },
     {
       id: "3",
       title: "Scrap Ninja",
@@ -101,8 +101,7 @@ import {
     },
   ];
   
-  export const collabText =
-    "My job is to develop your website or create technical content so that it is functional and user-friendly. I focus on delivering clean, maintainable code that aligns with project goals ";
+  export const collabText = ["My job is to develop your website or create technical content so that it is functional and user-friendly. I focus on delivering clean, maintainable code that aligns with project goals "]
   
   export const collabContent = [
     {
@@ -170,13 +169,6 @@ import {
     },
     {
       id: "7",
-      title: "CPP",
-      icon: cpplogo,
-      width: 38,
-      height: 32,
-    },
-    {
-      id: "8",
       title: "CPP",
       icon: cpplogo,
       width: 38,

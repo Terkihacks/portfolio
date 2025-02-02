@@ -1,4 +1,4 @@
-import { ray } from "";
+import Ray from '../assets/collaboration/ray.jpg'
 import { collabApps, collabContent, collabText } from "../constants";
 import Button from "./Button";
 import Section from "./Section";
@@ -38,7 +38,8 @@ const About = () => {
               <div className="w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full">
                 <div className="flex items-center justify-center w-full h-full bg-n-8 rounded-full">
                   <img
-                    src={ray}
+                  className='rounded-full w-full h-full'
+                    src={Ray}
                     width={120}
                     height={120}
                     alt="ray"
