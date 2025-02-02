@@ -221,13 +221,13 @@ import {
       id: "2",
       title: "Twitter",
       iconUrl: twitter,
-      url: "https://twitter.com/bhartik021",
+      // url: "https://twitter.com/bhartik021",
     },
     {
       id: "3",
       title: "Instagram",
       iconUrl: instagram,
-      url: "https://www.instagram.com/bhartik021/",
+      // url: "https://www.instagram.com/bhartik021/",
     },
     {
       id: "4",
