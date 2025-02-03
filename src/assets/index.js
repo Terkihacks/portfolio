@@ -1,5 +1,3 @@
-import bharti from "./bharti.svg";
-import bhartiIcon from "./bharti-favicon-icon.svg";
 import check from "./check.svg";
 import brainwaveSymbol from "./brainwave-symbol.svg";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
@@ -92,8 +90,6 @@ import peppercontent from "./peppercontent.svg";
 import proelevate from "./proelevate.svg";
 
 export {
-  bharti,
-  bhartiIcon,
   check,
   check2,
   loading1,

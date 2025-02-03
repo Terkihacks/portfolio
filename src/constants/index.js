@@ -13,7 +13,6 @@ import {
     azurelogo,
     cpplogo,
     project1,
-    project2,
     project3,
     project4,
     telegram,
@@ -26,8 +25,6 @@ import {
     tutorialspoint,
     peppercontent,
     proelevate,
-    bharti,
-    bhartiIcon,
   } from "../assets";
 
   export const navigation = [
@@ -65,12 +62,12 @@ import {
   export const projects = [
     {
       id: "0",
-      title: "MovieHub",
-      text: "Movie Hub is a Web Application that is developed using ReactJS and OMDb API that fetches movies information from the API.",
+      title: "AfyaHub",
+      text: "Movie Hub is a Web Application that is developed using ReactJS and Nodejs thatAfyahub brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
       date: "January 2022",
       status: "done",
       imageUrl: project4,
-      url: "https://github.com/bhartik021/movie-hub",
+      url: "https://afyahub.vercel.app/",
     },
     {
       id: "1",
@@ -79,7 +76,7 @@ import {
       date: "April 2023",
       status: "done",
       imageUrl: project1,
-      url: "https://github.com/bhartik021/summarizeme",
+      url: "https://github.com/Terkihacks/Afyahub",
     },
     // {
     //   id: "2",
@@ -88,7 +85,7 @@ import {
     //   date: "March 2024",
     //   status: "done",
     //   imageUrl: bhartiIcon,
-    //   url: "https://github.com/bhartik021/linktree",
+    //   url: "https://github.com/Terkihacks/Afyahub",
     // },
     {
       id: "3",
@@ -97,7 +94,7 @@ import {
       date: "March 2024",
       status: "progress",
       imageUrl: project3,
-      url: "https://github.com/bhartik021/scrap-ninja",
+      url: "https://github.com/Terkihacks/Afyahub",
     },
   ];
   
