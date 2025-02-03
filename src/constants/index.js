@@ -20,11 +20,11 @@ import {
     linkedin,
     github,
     gmail,
-    geeksforgeeks,
-    scaler,
-    tutorialspoint,
-    peppercontent,
-    proelevate,
+    // geeksforgeeks,
+    // scaler,
+    // tutorialspoint,
+    // peppercontent,
+    // proelevate,
   } from "../assets";
 
   export const navigation = [
@@ -57,7 +57,7 @@ import {
     },
   ];
   
-  export const companyLogos = [geeksforgeeks, scaler, tutorialspoint, peppercontent, proelevate];
+  // export const companyLogos = [geeksforgeeks, scaler, tutorialspoint, peppercontent, proelevate];
   
   export const projects = [
     {
