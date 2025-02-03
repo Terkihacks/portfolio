@@ -63,9 +63,9 @@ import {
     {
       id: "0",
       title: "AfyaHub",
-      text: "Afya Hub is a Web Application that is developed using ReactJS and Nodejs thatAfyahub brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
+      text: "Afya Hub is a Web Application that is developed using ReactJS and Nodejs that brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
       date: "January 2022",
-      status: "done",
+      status: "progress",
       imageUrl: project1,
       url: "https://afyahub.vercel.app/",
     },
