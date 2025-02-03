@@ -192,7 +192,7 @@ import {
       backgroundUrl: "./src/assets/benefits/card-2.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
-      light: true,
+      light: false,
     },
     {
       id: "2",
