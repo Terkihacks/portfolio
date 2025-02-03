@@ -63,20 +63,20 @@ import {
     {
       id: "0",
       title: "AfyaHub",
-      text: "Afya Hub is a Web Application that is developed using ReactJS and Nodejs that brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
-      date: "January 2022",
+      text: "Afya Hub is a Web App that is developed using ReactJS and Nodejs that brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
+      date: "January 2025",
       status: "progress",
       imageUrl: project1,
       url: "https://afyahub.vercel.app/",
     },
     {
       id: "1",
-      title: "SummarizeMe",
-      text: "Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries",
-      date: "April 2023",
+      title: "Crypto Metrics",
+      text: "CryptoMetrics is a powerful backend service designed for tracking cryptocurrency metrics. It supports live price tracking, portfolio management, CRUD operations, and in-depth analytics. The project is built with Node.js, Docker, and incorporates a robust CI/CD pipeline for deployment.",
+      date: "January 2025",
       status: "done",
       imageUrl: project4,
-      url: "https://github.com/Terkihacks/Afyahub",
+      url: "https://github.com/Terkihacks/CryptoMetrics",
     },
     // {
     //   id: "2",
@@ -89,12 +89,15 @@ import {
     // },
     {
       id: "3",
-      title: "Scrap Ninja",
-      text: "Developed using Next.js and Bright Data's web-unlocker, this e-commerce product scraping site is designed to assist users in making informed decisions. It notifies users when a product drops in price and helps competitors by alerting them when the product is out of stock, all managed through cron jobs.",
-      date: "March 2024",
-      status: "progress",
+      title: "Telecare",
+      text: `
+      The objective is developing a full-stack web application using Node.js, Express, and MySQL. I will build the backend of the telemedicine application that includes patient management, doctor scheduling, appointment booking, and user authentication for
+       patients. This project will help  understand how to connect a Node.js application to a MySQL database, perform CRUD operations, manage user authentication, and handle data securely and efficiently.
+      `,
+      date: "December 2024",
+      status: "done",
       imageUrl: project3,
-      url: "https://github.com/Terkihacks/Afyahub",
+      url: "https://github.com/Terkihacks/TelemedApp",
     },
   ];
   
@@ -218,13 +221,13 @@ import {
       id: "2",
       title: "Twitter",
       iconUrl: twitter,
-      // url: "https://twitter.com/bhartik021",
+      // url: "",
     },
     {
       id: "3",
       title: "Instagram",
       iconUrl: instagram,
-      // url: "https://www.instagram.com/bhartik021/",
+      // url: "",
     },
     {
       id: "4",
