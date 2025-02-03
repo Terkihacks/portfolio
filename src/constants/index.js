@@ -63,10 +63,10 @@ import {
     {
       id: "0",
       title: "AfyaHub",
-      text: "Movie Hub is a Web Application that is developed using ReactJS and Nodejs thatAfyahub brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
+      text: "Afya Hub is a Web Application that is developed using ReactJS and Nodejs thatAfyahub brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
       date: "January 2022",
       status: "done",
-      imageUrl: project4,
+      imageUrl: project1,
       url: "https://afyahub.vercel.app/",
     },
     {
@@ -75,7 +75,7 @@ import {
       text: "Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries",
       date: "April 2023",
       status: "done",
-      imageUrl: project1,
+      imageUrl: project4,
       url: "https://github.com/Terkihacks/Afyahub",
     },
     // {
