@@ -20,7 +20,6 @@ import {
     linkedin,
     github,
     gmail,
-    
   } from "../assets";
 
   export const navigation = [
@@ -59,7 +58,7 @@ import {
     {
       id: "0",
       title: "AfyaHub",
-      text: "Afya Hub is a Web App that is developed using ReactJS and Nodejs that brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
+      text: "Afya Hub is a collaborative tool that is developed using ReactJS and Nodejs that brings healthcare providers, patients, and stakeholders together on a unified platform to streamline communication, improve care delivery, and revolutionize health outcomes.",
       date: "January 2025",
       status: "progress",
       imageUrl: project1,
@@ -74,15 +73,18 @@ import {
       imageUrl: project4,
       url: "https://github.com/Terkihacks/CryptoMetrics",
     },
-    // {
-    //   id: "2",
-    //   title: "Linktree",
-    //   text: "A Linktree is a web page which consists stack of social media links and developed using Reactjs and Tailwind CSS with a Modern UI.",
-    //   date: "March 2024",
-    //   status: "done",
-    //   imageUrl: bhartiIcon,
-    //   url: "https://github.com/Terkihacks/Afyahub",
-    // },
+    {
+      id: "2",
+      title: "Personal Portofolio",
+      text: `
+      In my portfolio, you’ll find applications I’ve built from the ground up, demonstrating my skills in front-end and back-end development, and problem-solving. I continuously strive to learn new technologies and best practices, and I take pride in creating clean, efficient code.
+      Explore my projects to see how I combine technical expertise with creativity to deliver innovative solutions.
+      `,
+      date: "December 2025",
+      status: "done",
+      imageUrl: project4,
+      url: "https://raymondmunguti.vercel.app/",
+    },
     {
       id: "3",
       title: "Telecare",
