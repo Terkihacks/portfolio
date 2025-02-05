@@ -52,8 +52,6 @@ import {
     },
   ];
   
-  // export const companyLogos = [geeksforgeeks, scaler, tutorialspoint, peppercontent, proelevate];
-  
   export const projects = [
     {
       id: "0",
