@@ -83,13 +83,9 @@ import linkedin from "./socials/linkedin.svg";
 import github from "./socials/github.svg";
 import gmail from "./socials/gmail.svg";
 
-import geeksforgeeks from "./geeksforgeeks.svg";
-import scaler from "./scaler.svg";
-import tutorialspoint from "./tutorialspoint.svg";
-import peppercontent from "./peppercontent.svg";
-import proelevate from "./proelevate.svg";
 import candlestick from "./candlestick-icon.svg"
 import portfolio from "./portfolio-icon.svg"
+import dna from "./dna-color-icon.svg"
 
 export {
   check,
@@ -168,11 +164,7 @@ export {
   linkedin,
   github,
   gmail,
-  geeksforgeeks,
-  scaler,
-  tutorialspoint,
-  peppercontent,
-  proelevate,
   candlestick,
   portfolio,
+  dna
 };

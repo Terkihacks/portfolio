@@ -20,7 +20,8 @@ import {
     github,
     gmail,
     candlestick,
-    portfolio
+    portfolio,
+    dna
   } from "../assets";
 
   export const navigation = [
@@ -93,9 +94,22 @@ import {
       `,
       date: "December 2024",
       status: "done",
-      imageUrl: project3,
+      imageUrl: dna,
       url: "https://github.com/Terkihacks/TelemedApp",
     },
+    {
+      id: "4",
+      title: "UBC Dines",
+      text: `
+      The objective is developing a full-stack web application using Node.js, Express, and MySQL. I will build the backend of the telemedicine application that includes patient management, doctor scheduling, appointment booking, and user authentication for
+       patients. This project will help  understand how to connect a Node.js application to a MySQL database, perform CRUD operations, manage user authentication, and handle data securely and efficiently.
+      `,
+      date: "March 2024",
+      status: "done",
+      imageUrl: project3,
+      url: "https://ubc dines.vercel.app/",
+    },
+
   ];
   
   export const collabText = ["My job is to develop your website or create technical content so that it is functional and user-friendly. I focus on delivering clean, maintainable code that aligns with project goals "]
