@@ -20,11 +20,7 @@ import {
     linkedin,
     github,
     gmail,
-    // geeksforgeeks,
-    // scaler,
-    // tutorialspoint,
-    // peppercontent,
-    // proelevate,
+    
   } from "../assets";
 
   export const navigation = [
