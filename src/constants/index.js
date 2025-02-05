@@ -14,12 +14,13 @@ import {
     cpplogo,
     project1,
     project3,
-    project4,
     telegram,
     twitter,
     linkedin,
     github,
     gmail,
+    candlestick,
+    portfolio
   } from "../assets";
 
   export const navigation = [
@@ -68,7 +69,7 @@ import {
       text: "CryptoMetrics is a powerful backend service designed for tracking cryptocurrency metrics. It supports live price tracking, portfolio management, CRUD operations, and in-depth analytics. The project is built with Node.js, Docker, and incorporates a robust CI/CD pipeline for deployment.",
       date: "January 2025",
       status: "done",
-      imageUrl: project4,
+      imageUrl: candlestick,
       url: "https://github.com/Terkihacks/CryptoMetrics",
     },
     {
@@ -80,7 +81,7 @@ import {
       `,
       date: "December 2025",
       status: "done",
-      imageUrl: project4,
+      imageUrl: portfolio,
       url: "https://raymondmunguti.vercel.app/",
     },
     {

@@ -88,6 +88,8 @@ import scaler from "./scaler.svg";
 import tutorialspoint from "./tutorialspoint.svg";
 import peppercontent from "./peppercontent.svg";
 import proelevate from "./proelevate.svg";
+import candlestick from "./candlestick-icon.svg"
+import portfolio from "./portfolio-icon.svg"
 
 export {
   check,
@@ -171,4 +173,6 @@ export {
   tutorialspoint,
   peppercontent,
   proelevate,
+  candlestick,
+  portfolio,
 };
