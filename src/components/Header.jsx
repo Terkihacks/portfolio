@@ -78,7 +78,7 @@ const Header = () => {
         <Button 
           target="_blank" 
            className="hidden lg:flex"
-           href="src/assets/Raymond _Fullstack_Resume.pdf"
+           href="https://drive.google.com/file/d/1UxMGLEkjfBKVrbA6Q2rn7NLLbcKimBzt/view?usp=sharing"
            download = "Resume.pdf"
            >
           Resume
