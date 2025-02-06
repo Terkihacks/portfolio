@@ -13,7 +13,6 @@ import {
     azurelogo,
     cpplogo,
     project1,
-    project3,
     telegram,
     twitter,
     linkedin,
@@ -97,18 +96,18 @@ import {
       imageUrl: dna,
       url: "https://github.com/Terkihacks/TelemedApp",
     },
-    {
-      id: "4",
-      title: "UBC Dines",
-      text: `
-      The objective is developing a full-stack web application using Node.js, Express, and MySQL. I will build the backend of the telemedicine application that includes patient management, doctor scheduling, appointment booking, and user authentication for
-       patients. This project will help  understand how to connect a Node.js application to a MySQL database, perform CRUD operations, manage user authentication, and handle data securely and efficiently.
-      `,
-      date: "March 2024",
-      status: "done",
-      imageUrl: project3,
-      url: "https://ubc dines.vercel.app/",
-    },
+    // {
+    //   id: "4",
+    //   title: "UBC Dines",
+    //   text: `
+    //   The objective is developing a full-stack web application using Node.js, Express, and MySQL. I will build the backend of the telemedicine application that includes patient management, doctor scheduling, appointment booking, and user authentication for
+    //    patients. This project will help  understand how to connect a Node.js application to a MySQL database, perform CRUD operations, manage user authentication, and handle data securely and efficiently.
+    //   `,
+    //   date: "March 2024",
+    //   status: "done",
+    //   imageUrl: project3,
+    //   url: "https://ubc dines.vercel.app/",
+    // },
 
   ];
   
@@ -119,7 +118,7 @@ import {
       id: "0",
       title: "Learn About Me",
       text: `
-      I’m Raymond , a Full Stack Developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, and Node.js). I specialize in building scalable, efficient, and user-friendly web applications. My passion for both front-end and back-end development drives me to continually enhance my skills and
+      I’m Raymond , a Full Stack Developer with a strong foundation  and  1+ experience in  MERN stack (MySql, Express.js, React, and Node.js). I specialize in building scalable, efficient, and user-friendly web applications. My passion for both front-end and back-end development drives me to continually enhance my skills and
        stay current with the latest technologies and best practices.
        In addition to my technical proficiency, I thrive in collaborative environments where problem-solving and innovation are key. 
        I’m always eager to take on new challenges, improve processes, and contribute to impactful projects. Whether it’s crafting intuitive user interfaces or architecting robust APIs.
