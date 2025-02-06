@@ -1,5 +1,5 @@
 import {
-    benefitIcon1,
+    // benefitIcon1,
     benefitIcon2,
     benefitIcon3,
     benefitImage2,
@@ -187,19 +187,19 @@ import {
   ];
   
   export const services = [
-    {
-      id: "0",
-      title: "Technical Writing",
-      text: "Clear, concise content tailored to your audience's needs. Enhance communication with expert documentation.",
-      backgroundUrl: "./src/assets/benefits/card-1.svg",
-      iconUrl: benefitIcon1,
-      imageUrl: benefitImage2,
-    },
+    // {
+    //   id: "0",
+    //   title: "Technical Writing",
+    //   text: "Clear, concise content tailored to your audience's needs. Enhance communication with expert documentation.",
+    //   backgroundUrl: "./src/assets/benefits/card-1.svg",
+    //   iconUrl: benefitIcon1,
+    //   imageUrl: benefitImage2,
+    // },
     {
       id: "1",
-      title: "Web Development",
-      text: "Customized websites built with precision, functionality, and user experience in mind. Elevate your online presence.",
-      backgroundUrl: "./src/assets/benefits/card-2.svg",
+      title: "Software Development",
+      text: "Customized web apps built with precision, functionality, and user experience in mind. Elevate your online presence.",
+      backgroundUrl: "./src/assets/benefits/card-1.svg",
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
       light: false,
@@ -208,10 +208,45 @@ import {
       id: "2",
       title: "Community Building",
       text: "Foster connections and engagement through strategic initiatives and inclusive platforms. Cultivate thriving online communities.",
+      backgroundUrl: "./src/assets/benefits/card-2.svg",
+      iconUrl: benefitIcon3,
+      imageUrl: benefitImage2,
+    },
+    {
+      id: "3",
+      title: "API Development",
+      text: "Design and implement robust APIs to enable seamless communication between applications. Ensure scalability, security, and efficiency.",
       backgroundUrl: "./src/assets/benefits/card-3.svg",
       iconUrl: benefitIcon3,
       imageUrl: benefitImage2,
     },
+    {
+      id: "4",
+      title: "Backend Engineering",
+      text: "Power applications with efficient, high-performance backend systems. Optimize logic, security, and database interactions.",
+      backgroundUrl: "./src/assets/benefits/card-1.svg",
+      iconUrl: benefitIcon3,
+      imageUrl: benefitImage2,
+    },
+    {
+      id: "5",
+      title: "Database Management",
+      text: "Design, optimize, and secure databases for reliability and efficiency. Ensure seamless data storage, retrieval, and scalability.",
+      backgroundUrl: "./src/assets/benefits/card-2.svg",
+      iconUrl: benefitIcon3,
+      imageUrl: benefitImage2,
+    },
+    {
+      id: "6",
+      title: "Front End Development",
+      text: "Craft intuitive and responsive user interfaces. Enhance UX with modern frameworks, interactive designs, and performance-driven solutions.",
+      backgroundUrl: "./src/assets/benefits/card-3.svg",
+      iconUrl: benefitIcon3,
+      imageUrl: benefitImage2,
+    }
+
+
+
   ];
   
   export const socials = [
