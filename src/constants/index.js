@@ -79,7 +79,7 @@ import {
       In my portfolio, you’ll find applications I’ve built from the ground up, demonstrating my skills in front-end and back-end development, and problem-solving. I continuously strive to learn new technologies and best practices, and I take pride in creating clean, efficient code.
       Explore my projects to see how I combine technical expertise with creativity to deliver innovative solutions.
       `,
-      date: "December 2025",
+      date: "January 2024",
       status: "done",
       imageUrl: portfolio,
       url: "https://raymondmunguti.vercel.app/",
@@ -196,7 +196,7 @@ import {
     //   imageUrl: benefitImage2,
     // },
     {
-      id: "1",
+      id: "0",
       title: "Software Development",
       text: "Customized web apps built with precision, functionality, and user experience in mind. Elevate your online presence.",
       backgroundUrl: "./src/assets/benefits/card-1.svg",
@@ -205,7 +205,7 @@ import {
       light: false,
     },
     {
-      id: "2",
+      id: "1",
       title: "Community Building",
       text: "Foster connections and engagement through strategic initiatives and inclusive platforms. Cultivate thriving online communities.",
       backgroundUrl: "./src/assets/benefits/card-2.svg",
@@ -213,7 +213,7 @@ import {
       imageUrl: benefitImage2,
     },
     {
-      id: "3",
+      id: "2",
       title: "API Development",
       text: "Design and implement robust APIs to enable seamless communication between applications. Ensure scalability, security, and efficiency.",
       backgroundUrl: "./src/assets/benefits/card-3.svg",
@@ -221,7 +221,7 @@ import {
       imageUrl: benefitImage2,
     },
     {
-      id: "4",
+      id: "3",
       title: "Backend Engineering",
       text: "Power applications with efficient, high-performance backend systems. Optimize logic, security, and database interactions.",
       backgroundUrl: "./src/assets/benefits/card-1.svg",
@@ -229,7 +229,7 @@ import {
       imageUrl: benefitImage2,
     },
     {
-      id: "5",
+      id: "4",
       title: "Database Management",
       text: "Design, optimize, and secure databases for reliability and efficiency. Ensure seamless data storage, retrieval, and scalability.",
       backgroundUrl: "./src/assets/benefits/card-2.svg",
@@ -237,7 +237,7 @@ import {
       imageUrl: benefitImage2,
     },
     {
-      id: "6",
+      id: "5",
       title: "Front End Development",
       text: "Craft intuitive and responsive user interfaces. Enhance UX with modern frameworks, interactive designs, and performance-driven solutions.",
       backgroundUrl: "./src/assets/benefits/card-3.svg",
