@@ -30,7 +30,7 @@ const Services = () => {
                     src={item.iconUrl}
                     width={48}
                     height={48}
-                    alt={item.title}
+                    alt={item.title} 
                   />
                   <p className="ml-auto font-code text-xs font-bold text-n-1 uppercase tracking-wider">
                     Explore more
